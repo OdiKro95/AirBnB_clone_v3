@@ -156,7 +156,7 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang) 
-JoeyPerp(OdiKro95) - [Github](https://github.com/OdiKro95)
+Sampson Kyere Diawuo - [Github](https://github.com/OdiKro95)
 Grace Olabode - [Github](https://github.com/Amazingracee) / [Twitter](https://olabodephoeb.com/twitter)
 =======
 
